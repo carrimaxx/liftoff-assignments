@@ -20,11 +20,24 @@ We became inspired by the idea from Kaja’s Day Planner app and Andrea’s inte
   - UI design + Front-End: Kaja, Angela
   - Front-to-Back connection: Andrea, Angela, Kai, Kaja
   - Database + Back-End: Andrea, Kai
--** Create, read, edit, and delete study tasks and assignments (large)**: A student will be able to manage tasks and assignments to lists and have option to add deadlines
-  - UI design + Front-End: Kaja, Angela
-  - Front-to-Back connection: Andrea, Angela, Kai, Kaja
-  - Database + Back-End: Andrea, Kai
-**Calendar (large > small)** **:** College students will be able to view classes, tasks and assignments on their calendar/timetableUI design + Front-End: Kaja, AngelaFront-to-Back connection: Andrea, Angela, Kai, KajaDatabase + Back-End: Andrea, Kai**Login and signup (small)**: Students will be able to create, authenticate, and log into personal accounts.UI design + Front-End: Kaja, AngelaFront-to-Back connection: Andrea, Angela, Kai, KajaDatabase + Back-End: Andrea, Kai**Focus Zone (small)****:** College students will be able to use a Pomodoro Timer to schedule and save study sessions**Display and save quotes (small)** **:** College students will be able to view and save inspirational quotes pulled from an API for later use.**Reminders (small):** Students will get reminded of upcoming tasks or deadlines**Popup Notifications (small)**: Students will get popup notification for deadlines**Music (Bonus feature):** A student will be able to play music made for focus during study sessions.
+* Create, read, edit, and delete study tasks and assignments (large): A student will be able to manage tasks and assignments to lists and have option to add deadlines
+  * UI design + Front-End: Kaja, Angela
+  * Front-to-Back connection: Andrea, Angela, Kai, Kaja
+  * Database + Back-End: Andrea, Kai
+* Calendar (large > small) : College students will be able to view classes, tasks and assignments on their calendar/timetable
+  * UI design + Front-End: Kaja, Angela
+  * Front-to-Back connection: Andrea, Angela, Kai, Kaja
+  * Database + Back-End: Andrea, Kai
+* Login and signup (small): Students will be able to create, authenticate, and log into personal accounts.
+  * UI design + Front-End: Kaja, Angela
+  * Front-to-Back connection: Andrea, Angela, Kai, Kaja
+  * Database + Back-End: Andrea, Kai
+* Focus Zone (small): College students will be able to use a Pomodoro Timer to schedule and save study sessions
+* Display and save quotes (small) : College students will be able to view and save inspirational quotes pulled from an API for later use.
+* Reminders (small): Students will get reminded of upcoming tasks or deadlines
+* Popup Notifications (small): Students will get popup notification for deadlines
+* Music (Bonus feature): A student will be able to play music made for focus during study sessions.
+
 ### Technologies
 - Angular 11
 - TypeScript
