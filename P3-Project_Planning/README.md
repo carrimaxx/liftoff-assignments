@@ -8,19 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-- ![image-20210311104819110](C:\Users\racir\AppData\Roaming\Typora\typora-user-images\image-20210311104819110.png)
-
-- ![image-20210311104848170](C:\Users\racir\AppData\Roaming\Typora\typora-user-images\image-20210311104848170.png)
-
-- ![image-20210311104918888](C:\Users\racir\AppData\Roaming\Typora\typora-user-images\image-20210311104918888.png)
-
-- ![image-20210311104950343](C:\Users\racir\AppData\Roaming\Typora\typora-user-images\image-20210311104950343.png)
-
-- ![image-20210311105014162](C:\Users\racir\AppData\Roaming\Typora\typora-user-images\image-20210311105014162.png)
-
-- ![image-20210311105039497](C:\Users\racir\AppData\Roaming\Typora\typora-user-images\image-20210311105039497.png)
-
-
+Wireframes PDF file included in folder
 
 ### Project Tracker
 
